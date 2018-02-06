@@ -84,3 +84,8 @@ const CAS_DEBUG = FALSE;
 const CAS_VERBOSE = FALSE;
 
 ```
+
+If you let the default user provider, after authentication the user data are fetch from Easyappointments database by username.
+You will need to create users in Easyappointments to assign them a role.
+If user not found, no role is assigned to him and he has no privileges to access to backend.
+Of course you can set another user provider (see [UserProvider documentation from easyappointments-authentication plugin](https://github.com/FredericCasazza/easyappointments-authentication)).
