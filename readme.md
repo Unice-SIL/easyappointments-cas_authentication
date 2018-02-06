@@ -3,7 +3,7 @@
 This plugin allows you to use CAS authentication with your easyappointements platform.
 
 ### DISCLAIMER
-I developed and tested this plugin with easyappointments 1.2.1, I can't guarantee it will work with an other version.
+I developed and tested this plugin with easyappointments 1.2.1, I can't guarantee it will work with another version.
 
 ### REQUIRES
 You need to install [easyappointments-authentication](https://github.com/FredericCasazza/easyappointments-authentication) plugin before
